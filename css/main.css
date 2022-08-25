@@ -1,0 +1,28 @@
+img {
+    width: 100px;
+    margin-bottom: 6px;
+    border-radius: 5px;
+}
+
+#container {
+    width: 100px;
+    height: 88.89px;
+    background-color: #fefefe;
+    position: relative;
+    left: 17%;
+    top: -8px;
+    border: 1px solid #81adba;
+    border-radius: 6px;
+}
+
+.big {
+    background-color: gray;
+    text-align: center;
+    margin: 250px auto;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.small {
+    padding: 20px 0 0 0;
+}
